@@ -55,22 +55,3 @@ python mobius_strip.py
 🙋‍♀️ About Me
 Hi! I'm Sneha Latha, a final-year Computer Science student passionate about math, programming, and visual learning. I built this project as part of my learning journey to explore mathematical beauty through technology.
 
-📬 Contact
-Feel free to connect with me on LinkedIn or check out my other projects.
-
-yaml
-Copy
-Edit
-
-> ⚠️ **Replace** `yourusername` in the GitHub URL with your actual GitHub username.
-
----
-
-## ✅ Step 3: Add and Push `README.md` to GitHub
-
-From your project folder terminal:
-
-```bash
-git add README.md
-git commit -m "Add README file"
-git push origin main
